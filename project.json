@@ -1,0 +1,24 @@
+{
+  "overview": "AI Text Reader is a text-to-speech web app focused on natural Tamil pronunciation. Users paste or type text, choose their language and voice, and listen to it read aloud — with speed/pitch controls, dark mode, and the ability to download the audio.",
+  "features": [
+    "Tamil-first text-to-speech using browser speech synthesis",
+    "Multi-language support with voice selection",
+    "Play, pause, and stop controls",
+    "Download synthesized speech as MP3",
+    "Speed and pitch adjustment sliders",
+    "Dark mode toggle",
+    "Character counter with copy and clear buttons",
+    "Auto-save text to local storage",
+    "Responsive mobile-friendly design"
+  ],
+  "category": "tool",
+  "tags": [
+    "text-to-speech",
+    "tamil",
+    "audio",
+    "accessibility",
+    "language",
+    "productivity"
+  ],
+  "last_updated": "2026-04-08T19:02:05.503Z"
+}
